@@ -1,0 +1,16 @@
+table {
+    background-color: #f0f0f0;
+    width: 800px;
+}
+
+#szoveg {
+    font-size: 20px;
+}
+
+.bekezedesek {
+    color: gray;
+}
+
+#ballent {
+    background-color: rgb(255, 102, 0);
+}
